@@ -1,0 +1,17 @@
+[
+     {      "id": 1,
+          "image": "../../assets/carausal1.jpg" 
+     },
+     {   "id": 2,
+          "image": "../..//assets/carausal2.png" 
+     },
+     {     "id": 3,
+          "image": "../../assets/carausal3.gif" 
+     },
+     {      "id": 4,
+          "image": "../../assets/carausal4.webp" 
+     },
+     {     "id": 5,
+          "image": "../../assets/carausal5.webp" 
+     }
+]
